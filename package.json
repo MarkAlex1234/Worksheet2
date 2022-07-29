@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "react-scripts test --watchAll --testMatch **/src/*.test.js",
+    "test": "react-scripts test --watchAll --testMatch **/**/src/*.test.js",
     "start": "nodemon backend/server.js"
   },
   "author": "Mark",
